@@ -27,7 +27,7 @@ qa_finetune
 ├── predict_roberta.py  # 模型预测
 └── train_roberta.py    # 模型训练
 ```
-[robrtta-base 模型下载](https://huggingface.co/roberta-base)
+[roberta-base 模型下载](https://huggingface.co/roberta-base)
 
 ---
 # 示例
